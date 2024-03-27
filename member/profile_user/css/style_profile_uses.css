@@ -1,0 +1,15 @@
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #0d6efd;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #0d6efd
+}
+
+.pro{
+    margin: 10px;
+}
